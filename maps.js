@@ -42,7 +42,7 @@ maps.push(`
   XXXXXXXXXX
   `);
 maps.push(`
-  I-----XXXX
+  -I----XXXX
   XXXXX-XXXX
   XX----XXXX
   XX-XXXXXXX
